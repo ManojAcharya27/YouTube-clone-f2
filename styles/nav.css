@@ -15,15 +15,7 @@ nav{
     display: flex;
     align-items: stretch;
     width: 80%;
-    display: flex;
-    align-items: center;
-    background-color: #fff;
-    padding: 10px;
-    border: 1px solid #ddd;
-    border-radius: 5px;
-    width: 300px;
-    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
-    
+
   }
 
   .middle{
